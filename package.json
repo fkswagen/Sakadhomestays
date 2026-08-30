@@ -19,5 +19,9 @@
     "react-router-dom": "^7.18.3",
     "stripe": "^22.6.0",
     "vite": "latest"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0"
   }
 }
